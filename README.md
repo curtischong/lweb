@@ -1,4 +1,10 @@
-Lizzie is really taking over my life.
+# LWeb
+
+<p align="center">
+  <img src="https://chongcurtis.com/file_hosting/lweb.png" alt="A photo of logged info from LWeb"/>
+</p>
+
+Whoa Lizzie is really taking over my life.
 
 So what's LWeb? This is the chrome extension for Lizzie. Since I soend a lot of time talking and learning things online, I want to record:
 1. (only my) Messenger texts (and texts that I've deleted and haven't sent)
