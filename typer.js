@@ -1,3 +1,4 @@
+console.log("reminder that you need to manually reload extension if you changed manifest.json")
 let curCmd = true;
 let selectAll = false;
 let textSelectAll = "";

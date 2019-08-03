@@ -7,11 +7,20 @@
       "<all_urls>"
     ],
     "js": ["dependencies/jquery-3.3.1.min.js", "dependencies/moment-with-locals.js", "typer.js"]
+  },{
+    "matches": [
+      "https://www.messenger.com/*"
+    ],
+    "js": ["dependencies/chartjs-2.8.0.js","convo.js"],
+    "css": ["convo.css"]
   }],
   "browser_action": {
     "default_icon": "logo.png"
   },
   "background": {
     "scripts": ["background.js"]
-  }
+  },
+  "web_accessible_resources": [
+    "convo.html"
+  ]
 }
