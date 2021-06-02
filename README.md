@@ -1,7 +1,7 @@
 # LWeb
 
 <p align="center">
-  <img src="https://chongcurtis.com/file_hosting/lweb.png" alt="A photo of logged info from LWeb"/>
+  <img src="demo.png" alt="A photo of logged info from LWeb"/>
 </p>
 
 Whoa Lizzie is really taking over my life.
